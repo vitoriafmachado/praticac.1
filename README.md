@@ -1,2 +1,2 @@
 # praticac.1
-exercícios de linguagem c faculdade 
+exercícios de linguagem #c faculdade 
